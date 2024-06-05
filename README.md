@@ -4,7 +4,7 @@ Repozytorium zawiera zestaw rozwiązań do zadań statystycznych i analizy danyc
 
 ## Użyte technologie
 - Python 3.8+
- Biblioteki:
+- Biblioteki:
   - NumPy
   - pandas
   - Matplotlib
